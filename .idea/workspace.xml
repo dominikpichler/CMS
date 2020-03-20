@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b88b72d6-01c0-4c24-a87f-50f34144e0ab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="127.0.0.1" id="022225dc-b69a-4f95-b30b-5c30a245bf57" name="Local" />
+    </servers>
+  </component>
+  <component name="ProjectId" id="1ZOCs3519AZO80MvTmdEmtjN511" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Localhost" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="Local" start_url="/cms">
+      <method v="2">
+        <option name="FtpUpload" enabled="true">
+          <server_id>4d4135b5-458c-421e-8694-b763fe5e0e2a</server_id>
+          <server_name>cms</server_name>
+          <group_name />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b88b72d6-01c0-4c24-a87f-50f34144e0ab" name="Default Changelist" comment="" />
+      <created>1584700956930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584700956930</updated>
+      <workItem from="1584700958209" duration="624000" />
+      <workItem from="1584701642816" duration="320000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="135" y="182" key="#Deployment" timestamp="1584701957048">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="135" y="182" key="#Deployment/0.0.1680.1050@0.0.1680.1050" timestamp="1584701957048" />
+    <state x="135" y="201" key="#Deployment/0.23.1680.1027@0.23.1680.1027" timestamp="1584701679417" />
+    <state x="123" y="198" key="#Servers" timestamp="1584701352779">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="123" y="198" key="#Servers/0.23.1680.1027@0.23.1680.1027" timestamp="1584701352779" />
+    <state x="0" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584701962723">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="0" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1584701962723" />
+    <state x="0" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1584701687721" />
+    <state x="0" y="175" key="SettingsEditor" timestamp="1584701336444">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="0" y="175" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1584701336444" />
+    <state x="297" y="228" key="com.jetbrains.plugins.webDeployment.ui.UploadBeforeRunTaskDialog" timestamp="1584701960139">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="297" y="228" key="com.jetbrains.plugins.webDeployment.ui.UploadBeforeRunTaskDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1584701960139" />
+    <state x="297" y="246" key="com.jetbrains.plugins.webDeployment.ui.UploadBeforeRunTaskDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1584701685244" />
+  </component>
+</project>
