@@ -1,6 +1,6 @@
 <?php ?>
 
-<div class="col-md-4">
+<div class="col-md-3">
 
 
 
@@ -47,23 +47,12 @@
 
                     while($row = mysqli_fetch_assoc($select_all_categories)){
                         $cat_title = $row['cat_title'];
-                        echo "<li><a href='#'>".$cat_title."</a></li>";
+                        $cat_id = $row['cat_ID'];
+                        echo "<li><a href='category.php?category=$cat_id'>".$cat_title."</a></li>";
 
                     }
                     ?>
 
-                    <!--
-
-                    <li><a href="#">Category Name</a>
-                    </li>
-                    <li><a href="#">Category Name</a>
-                    </li>
-                    <li><a href="#">Category Name</a>
-                    </li>
-                    <li><a href="#">Category Name</a>
-                    </li>
-
-                    -->
                 </ul>
             </div>
             <!-- /.col-lg-6 -->
@@ -73,10 +62,38 @@
         <!-- /.row -->
     </div>
 
-    <!-- Side Widget Well -->
+    <!-- LOGIN -->
+    <div class="well">
+        <h4>Login</h4>
+
+        <form action="/includes/login.php" method="post">
+            <div class="form-group">
+                <input name="username" type="text" class="form-control" placeholder="Enter Username">
+            </div>
+            <div class="input-group">
+                <input name="password" type="password" class="form-control" placeholder="Enter Password">
+                <span class="input-group-btn">
+                    <button class="btn btn-primary" name="login" type="submit">Submit
+                    </button>
+                </span>
+            </div>
+
+
+        </form>
+        <!-- search form -->
+
+
+
+
+        <!-- /.input-group -->
+    </div>
+
+    <!-- Side Widget Well
     <div class="well">
         <h4>Side Widget Well</h4>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, perspiciatis adipisci accusamus laudantium odit aliquam repellat tempore quos aspernatur vero.</p>
     </div>
+
+    -->
 
 </div>

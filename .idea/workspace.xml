@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b88b72d6-01c0-4c24-a87f-50f34144e0ab" name="Default Changelist" comment="" />
+    <list default="true" id="b88b72d6-01c0-4c24-a87f-50f34144e0ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/css/.bootstrap-rtl 2.css.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/css/.bootstrap-rtl.min 2.css.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/css/.bootstrap.min 2.css.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/font-awesome/css/.font-awesome 2.css.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/font-awesome/fonts/.FontAwesome 2.otf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/font-awesome/fonts/.fontawesome-webfont 2.eot.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/font-awesome/fonts/.fontawesome-webfont 2.ttf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/font-awesome/fonts/.fontawesome-webfont 2.woff.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/font-awesome/fonts/fontawesome-webfont 2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/admin/font-awesome/fonts/fontawesome-webfont 2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/font-awesome/less/.fixed-width 2.less.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/font-awesome/less/.larger 2.less.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/font-awesome/less/.mixins 2.less.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/font-awesome/less/.path 2.less.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/font-awesome/scss/.._bordered-pulled 2.scss.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/font-awesome/scss/.._path 2.scss.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/font-awesome/scss/.font-awesome 2.scss.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/fonts/.glyphicons-halflings-regular 2.woff.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/js/plugins/flot/excanvas.min 2.js" beforeDir="false" afterPath="$PROJECT_DIR$/admin/js/plugins/flot/excanvas.min 2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/js/plugins/flot/jquery.flot 2.js" beforeDir="false" afterPath="$PROJECT_DIR$/admin/js/plugins/flot/jquery.flot 2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/js/plugins/flot/jquery.flot.tooltip.min 2.js" beforeDir="false" afterPath="$PROJECT_DIR$/admin/js/plugins/flot/jquery.flot.tooltip.min 2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/js/plugins/morris/morris 2.js" beforeDir="false" afterPath="$PROJECT_DIR$/admin/js/plugins/morris/morris 2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/js/plugins/morris/morris-data 2.js" beforeDir="false" afterPath="$PROJECT_DIR$/admin/js/plugins/morris/morris-data 2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/js/plugins/morris/raphael.min 2.js" beforeDir="false" afterPath="$PROJECT_DIR$/admin/js/plugins/morris/raphael.min 2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog_search 2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/post 2.php" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,12 +40,16 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpServers">
     <servers>
       <server host="127.0.0.1" id="022225dc-b69a-4f95-b30b-5c30a245bf57" name="Local" />
     </servers>
   </component>
   <component name="ProjectId" id="1ZOCs3519AZO80MvTmdEmtjN511" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,6 +57,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -64,7 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584700956930</updated>
       <workItem from="1584700958209" duration="624000" />
-      <workItem from="1584701642816" duration="320000" />
+      <workItem from="1584701642816" duration="874000" />
     </task>
     <servers />
   </component>

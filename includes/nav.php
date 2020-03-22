@@ -13,7 +13,7 @@ include "db.php";
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="/cms/index.php">Dominik's Blog</a>
+            <a class="navbar-brand" href="index.php">CMS</a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -31,7 +31,7 @@ include "db.php";
                 }
                 ?>
 
-                <li><a href="../../cms/admin"> Admin</a></li>
+                <li><a href="../admin"> Admin</a></li>
 
             </ul>
         </div>
