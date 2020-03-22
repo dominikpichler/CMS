@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b88b72d6-01c0-4c24-a87f-50f34144e0ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/css/.bootstrap-rtl 2.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/css/.bootstrap-rtl.min 2.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/css/.bootstrap.min 2.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/font-awesome/css/.font-awesome 2.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/font-awesome/fonts/.FontAwesome 2.otf.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/font-awesome/fonts/.fontawesome-webfont 2.eot.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/font-awesome/fonts/.fontawesome-webfont 2.ttf.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/font-awesome/fonts/.fontawesome-webfont 2.woff.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/font-awesome/fonts/fontawesome-webfont 2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/admin/font-awesome/fonts/fontawesome-webfont 2.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/font-awesome/less/.fixed-width 2.less.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/font-awesome/less/.larger 2.less.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/font-awesome/less/.mixins 2.less.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/font-awesome/less/.path 2.less.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/font-awesome/scss/.._bordered-pulled 2.scss.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/font-awesome/scss/.._path 2.scss.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/font-awesome/scss/.font-awesome 2.scss.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/fonts/.glyphicons-halflings-regular 2.woff.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/plugins/flot/excanvas.min 2.js" beforeDir="false" afterPath="$PROJECT_DIR$/admin/js/plugins/flot/excanvas.min 2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/plugins/flot/jquery.flot 2.js" beforeDir="false" afterPath="$PROJECT_DIR$/admin/js/plugins/flot/jquery.flot 2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/plugins/flot/jquery.flot.tooltip.min 2.js" beforeDir="false" afterPath="$PROJECT_DIR$/admin/js/plugins/flot/jquery.flot.tooltip.min 2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/plugins/morris/morris 2.js" beforeDir="false" afterPath="$PROJECT_DIR$/admin/js/plugins/morris/morris 2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/plugins/morris/morris-data 2.js" beforeDir="false" afterPath="$PROJECT_DIR$/admin/js/plugins/morris/morris-data 2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/js/plugins/morris/raphael.min 2.js" beforeDir="false" afterPath="$PROJECT_DIR$/admin/js/plugins/morris/raphael.min 2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog_search 2.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/post 2.php" beforeDir="false" />
-    </list>
+    <list default="true" id="b88b72d6-01c0-4c24-a87f-50f34144e0ab" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,6 +70,7 @@
       <updated>1584700956930</updated>
       <workItem from="1584700958209" duration="624000" />
       <workItem from="1584701642816" duration="874000" />
+      <workItem from="1584890444802" duration="247000" />
     </task>
     <servers />
   </component>
