@@ -1,6 +1,6 @@
 <?php ?>
 
-<div class="col-md-3">
+<div class="col-md-2">
 
 
 
@@ -65,6 +65,7 @@
     <!-- LOGIN -->
     <div class="well">
         <h4>Login</h4>
+        <br>
 
         <form action="/includes/login.php" method="post">
             <div class="form-group">
@@ -72,10 +73,8 @@
             </div>
             <div class="input-group">
                 <input name="password" type="password" class="form-control" placeholder="Enter Password">
-                <span class="input-group-btn">
-                    <button class="btn btn-primary" name="login" type="submit">Submit
-                    </button>
-                </span>
+
+                <button class="btn btn-primary login_button" name="login" type="submit">Submit</button>
             </div>
 
 
@@ -88,12 +87,12 @@
         <!-- /.input-group -->
     </div>
 
-    <!-- Side Widget Well
+    <!-- Side Widget Well -->
     <div class="well">
         <h4>Side Widget Well</h4>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, perspiciatis adipisci accusamus laudantium odit aliquam repellat tempore quos aspernatur vero.</p>
     </div>
 
-    -->
+
 
 </div>

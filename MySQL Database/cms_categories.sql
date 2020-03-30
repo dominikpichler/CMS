@@ -26,7 +26,7 @@ CREATE TABLE `categories` (
   `cat_ID` int(11) NOT NULL AUTO_INCREMENT,
   `cat_title` varchar(45) NOT NULL,
   PRIMARY KEY (`cat_ID`)
-) ENGINE=InnoDB AUTO_INCREMENT=22 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=24 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -35,7 +35,7 @@ CREATE TABLE `categories` (
 
 LOCK TABLES `categories` WRITE;
 /*!40000 ALTER TABLE `categories` DISABLE KEYS */;
-INSERT INTO `categories` VALUES (17,'Java'),(18,'Javascript'),(19,'PHP'),(20,'Python'),(21,'MySQL');
+INSERT INTO `categories` VALUES (17,'Java'),(18,'Javascript'),(19,'PHP'),(20,'Python'),(21,'MySQL'),(22,'C#'),(23,'C++');
 /*!40000 ALTER TABLE `categories` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -48,4 +48,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2020-03-22 16:26:51
+-- Dump completed on 2020-03-30 12:59:18

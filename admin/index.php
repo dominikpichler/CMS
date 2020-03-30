@@ -1,6 +1,15 @@
 <?php session_start(); ?>
+<?php ob_start() ?>
 
 <? include "include/admin_header.php" ?>
+
+
+<?php
+if ($_SESSION['is_open'] == false){
+    echo "KEINE AKTIVE SESSION";
+    //header("Location: ../cms-login.php");
+}
+?>
 
 <body>
 

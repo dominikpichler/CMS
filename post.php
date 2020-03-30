@@ -4,6 +4,7 @@
 <body>
 <!-- Navigation -->
 <? include "includes/nav.php";?>
+<link href="css/blog-post.css" rel="stylesheet">
 
 <!-- Page Content -->
 <div class="container">
@@ -11,10 +12,9 @@
     <div class="row">
 
         <!-- Blog Entries Column -->
-        <div class="col-md-8">
+        <div class="col-md-12">
 
             <h1 class="page-header">
-                Welcome to my Blog
                 <!-- <small>All my posts can be found below!</small> -->
             </h1>
 
@@ -44,67 +44,38 @@
                 ?>
 
 
+            <div>
+                <div class="header_posts">
+                    <h2>
+                        <a href="#"><? echo $post_title ?></a>
+                    </h2>
+                    <p class="lead">
+                        by <a href="index.php"><? echo $post_author ?></a>
+                    </p>
+                    <p><span class=""></span><? echo " ".$post_date?> </p>
+                    <hr>
+
+                </div>
+
+                <div class="blog-post-container">
+                   <!-- <img class="img-responsive img-blog-post" src="  <? echo $post_image?>  " alt=""> -->
+                    <p><? echo $post_content?> </p>
 
 
-                <?
-
-                ?>
-
-
-
+                </div>
+            </div>
                 <!--  Blog Posts -->
-                <h2>
-                    <a href="#"><? echo $post_title ?></a>
-                </h2>
-                <p class="lead">
-                    by <a href="index.php"><? echo $post_author ?></a>
-                </p>
-                <p><span class="glyphicon glyphicon-time"></span><? echo " ".$post_date?> </p>
-                <hr>
-
-                <img class="img-responsive" src="  <? echo $post_image?>  " alt="">
-                <hr>
-                <p><? echo $post_content?> </p>
-                <a class="btn btn-primary" href="#">Read More <span class="glyphicon glyphicon-chevron-right"></span></a>
-
-                <hr>
-
-
-
 
             <? } ?>
 
-
-            <!-- Blog Comments -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- INSERT COMMENTS -->
-
-
-<!--  -->
-
-
-
-
-
-
-
         </div>
 
-        <!-- Blog Sidebar Widgets Column -->
-        <? include "includes/sidebar.php"; ?>
+        <!-- Blog Sidebar Widgets Column
+        <?
+        //include "includes/sidebar.php";
+        ?>
 
+            -->
     </div>
     <!-- /.row -->
 

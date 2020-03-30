@@ -11,3 +11,16 @@ body {
 footer {
     margin: 50px 0;
 }
+
+.header_posts {
+    text-align: center;
+}
+
+.img-blog-post {
+    padding: 40px 0;
+}
+
+.blog-post-container {
+    width: 70%;
+    margin: 0 auto;
+}

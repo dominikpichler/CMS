@@ -1,6 +1,8 @@
 
 <?php include "includes/header.php" ?>
 
+
+
 <body>
     <!-- Navigation -->
         <? include "includes/nav.php";?>
@@ -10,13 +12,16 @@
 
         <div class="row">
 
-            <!-- Blog Entries Column -->
-            <div class="col-md-8">
-
+            <div class="col-md-12">
                 <h1 class="page-header">
-                    Welcome to my Blog
                     <!-- <small>All my posts can be found below!</small> -->
                 </h1>
+
+            </div>
+            <!-- Blog Entries Column -->
+            <div class="col-md-10">
+
+
 
                 <?
 
@@ -60,7 +65,7 @@
                      <img class="img-responsive" src="  <? echo $post_image?>  " alt="">
                 <hr>
                 <p><? echo $post_content?> </p>
-                <a class="btn btn-primary" href="post.php?p_id=<?echo $post_id?>">Read More <span class="glyphicon glyphicon-chevron-right"></span></a>
+                <a class="btn btn-primary" href="post.php?p_id=<?echo $post_id?>">Read More</a>
 
                 <hr>
 
@@ -76,7 +81,9 @@
             </div>
 
             <!-- Blog Sidebar Widgets Column -->
+            <div class="sidebar_cat">
             <? include "includes/sidebar.php"; ?>
+            </div>
 
         </div>
         <!-- /.row -->

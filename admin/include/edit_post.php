@@ -9,15 +9,9 @@
 include "admin_header.php";
 
 
-
 if(isset($_GET['source'])){
 
-
-
  $post_id = $_GET['p_id'];
-
-
-
 
 
 //FILL STUFF IN FORM!! (VALUE)
@@ -115,7 +109,7 @@ if(isset($_POST['update_post'])){
 ?>
 
 
-<form action="" method="post" enctype="multipart/form-data">
+<form action="posts.php?source=edit_post&p_id=<?echo $post_id?>" method="post" enctype="multipart/form-data">
 
     <div class="form-group">
         <label for="post_title"> Post Title</label>
